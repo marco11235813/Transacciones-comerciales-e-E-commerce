@@ -1,0 +1,51 @@
+# Entornos virtuales
+env/
+venv/
+env_Ecommerce
+
+
+# Archivos de Dependencias Locales
+*.pyc
+__pycache__/
+Pipfile.lock
+
+
+# Archivos de Configuración de Editores y Herramientas de Desarrollo
+.vscode/
+.idea/
+*.iml/
+
+
+# Archivos de Logs
+*.log
+
+
+# Archivos de Configuraciones Locales
+.env
+
+
+# Carpetas de Salida y Archivos Generados
+output/
+dist/
+build/
+
+
+# Datos Temporales o Sensibles
+# data/raw/
+# *.csv 
+
+
+# Archivos de Backup y de Sistema
+*.bak
+*.swp
+*.swo
+
+
+# Archivos de Notebooks
+*.ipynb_checkpoints/
+
+
+# Archivos de plantilla de cookiecutter no necesarios
+hooks/
+# transacciones-comerciales-e-e-commerce/
+# transacciones-comerciales-e-e-commerce/

@@ -1,0 +1,33 @@
+# Nombre del entorno Conda basado en el nombre del proyecto
+name: env_Ecommerce
+
+# Canales desde los cuales instalar paquetes
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Dependencias básicas
+  - fs
+  - jupyter
+  - notebook
+  - jupyterlab
+  # Sección para instalar con conda
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - selenium
+  - beautifulsoup4
+  - ipykernel
+  - scipy
+  # Especificación de la versión de Python
+  - python=3.12
+  
+  # Paquetes adicionales instalados a través de pip
+  - pip:
+    - undetected-chromedriver
+    
