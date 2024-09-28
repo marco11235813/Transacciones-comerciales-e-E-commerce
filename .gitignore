@@ -1,7 +1,7 @@
 # Entornos virtuales
 env/
 venv/
-env_Ecommerce
+env_Ecommerce/
 
 
 # Archivos de Dependencias Locales
