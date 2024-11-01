@@ -43,6 +43,7 @@ build/
 
 # Archivos de Notebooks
 *.ipynb_checkpoints/
+notebooks/resources.py
 
 
 # Archivos de plantilla de cookiecutter no necesarios
