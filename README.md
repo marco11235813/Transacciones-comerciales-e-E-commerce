@@ -4,6 +4,22 @@
   <img src="https://cdn-icons-png.flaticon.com/128/16504/16504333.png" alt="Imagen">
 </p>
 
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Power Query](https://img.shields.io/badge/-Power%20Query-black?style=flat-square&logo=powerquery)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-black?style=flat-square&logo=excel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-black?style=flat-square&logo=googledrive)
+![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-black?style=flat-square&logo=googlecolaboratory)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 ## $\textcolor{#1698E3}{\text{Descripción del Proyecto 📝}}$
 Este proyecto de Data Science tiene como objetivo extraer y analizar datos de Amazon, centrado en productos como libros, electrodomésticos y artículos gamers. Utilizando técnicas de web scraping, se obtendrá información sobre precios, opiniones de los usuarios, características de los productos y más.
 
