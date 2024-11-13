@@ -59,7 +59,7 @@ Adicionalmente, se realizarán informes y dashboards interactivos que visualicen
 
 Este proyecto abarca desde la recolección y transformación de datos hasta la creación de modelos avanzados y visualizaciones de impacto.
 <details>
-<summary>Instalaciones</summary>
+<summary><strong><u>Instalaciones</u></strong></summary>
 <br>
 ### $\textcolor{#1698E3}{\text{Instalación del entorno con pip 📦}}$
 1. Realiza un fork de este proyecto en tu cuenta de GitHub.
