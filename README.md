@@ -20,7 +20,28 @@
 ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-black?style=flat-square&logo=googlecolaboratory)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## $\textcolor{#1698E3}{\text{Descripción del Proyecto 📝}}$
+# Producto
+
+- [Presentación del Producto](https://www.youtube.com/watch?v=nyYlZbD9mS4)
+- [Documentación Completa del Desarrollo del Proyecto]()
+
+# Índice
+
+- [Introducción](#Introducción)
+- [Objetivos](#Objetivos)
+- [Datos](#Datos)
+- [Desarrollo](#Desarrollo)
+  - [ETL](#ETL)
+  - [EDA](#EDA)
+  - [Dashboard](#Dashboard)
+  - [Modelo](#Modelo)
+  - [Deploy](#Deploy)
+- [Tecnologías](#Tecnologías)
+- [Conclusiones](#Conclusiones)
+- [Equipo](#Equipo)
+
+
+## $\textcolor{#1698E3}{\text{Introducción 📝}}$
 Este proyecto de Data Science tiene como objetivo extraer y analizar datos de Amazon, centrado en productos como libros, electrodomésticos y artículos gamers. Utilizando técnicas de web scraping, se obtendrá información sobre precios, opiniones de los usuarios, características de los productos y más.
 
 El enfoque principal es aplicar un proceso completo de **ETL** (Extract, Transform, Load) y llevar a cabo **Análisis Exploratorio de Datos (EDA)**. Posteriormente, se desarrollarán modelos de Machine Learning para:
@@ -37,9 +58,10 @@ Adicionalmente, se realizarán informes y dashboards interactivos que visualicen
 - **Análisis prescriptivo:** Para recomendar acciones basadas en los datos.
 
 Este proyecto abarca desde la recolección y transformación de datos hasta la creación de modelos avanzados y visualizaciones de impacto.
-
-
-## $\textcolor{#1698E3}{\text{Instalación del entorno con pip 📦}}$
+<details>
+<summary>Instalaciones</summary>
+<br>
+### $\textcolor{#1698E3}{\text{Instalación del entorno con pip 📦}}$
 1. Realiza un fork de este proyecto en tu cuenta de GitHub.
 2. Clona el repositorio en tu máquina local utilizando el comando `git clone` seguido de la URL del repositorio.
 3. Crea un entorno virtual utilizando el comando `python -m venv env_Ecommerce`.
@@ -47,9 +69,11 @@ Este proyecto abarca desde la recolección y transformación de datos hasta la c
 5. Instala las dependencias del proyecto utilizando el comando `pip install -r requirements.txt`.
 
 
-## $\textcolor{#1698E3}{\text{Instalación del entorno con conda 🐍}}$
+### $\textcolor{#1698E3}{\text{Instalación del entorno con conda 🐍}}$
 1. Realiza un fork de este proyecto en tu cuenta de GitHub.
 2. Clona el repositorio en tu máquina local utilizando el comando `git clone` seguido de la URL del repositorio.
 3. Abrimos la terminal de conda llamada `Anaconda Poweshell Prompt` y nos ubicamos en la carpeta del proyecto clonado utilizando el comando `cd ruta/del/proyecto`.
 4. Instalamos el entorno virtual utilizando el comando `conda env create --file environment.yml`.
 5. Activamos el entorno `conda activate env_Ecommerce`.
+
+</details>
