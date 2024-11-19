@@ -61,6 +61,7 @@ Este proyecto abarca desde la recolección y transformación de datos hasta la c
 <details>
 <summary><strong><u>Instalaciones</u></strong></summary>
 <br>
+  
 ### $\textcolor{#1698E3}{\text{Instalación del entorno con pip 📦}}$
 1. Realiza un fork de este proyecto en tu cuenta de GitHub.
 2. Clona el repositorio en tu máquina local utilizando el comando `git clone` seguido de la URL del repositorio.
